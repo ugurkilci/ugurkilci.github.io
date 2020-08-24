@@ -1,0 +1,18 @@
+address a {
+    color:#000;
+}
+
+address a:hover, address a:focus {
+    color:--blue;
+    text-decoration: none;
+}
+
+.link a {
+    color:#000;
+    margin:0px 20px 20px 0px;
+}
+
+.link a:hover, .link a:focus {
+    color:#007bff!important;
+    text-decoration: wavy;
+}
